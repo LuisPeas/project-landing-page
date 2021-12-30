@@ -11,7 +11,7 @@ body {
     display: flex;
     background-color: #1F2937;
     color: white;
-    font-size: 24px;
+    font-size: 18px;
     justify-content: space-between;
     margin: 0px;
     align-items: center;
@@ -19,6 +19,7 @@ body {
 
 .header-text {
     margin-left: 55px;
+    font-size: 18px;
 }
 
 .content {
